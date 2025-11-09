@@ -102,7 +102,7 @@ Please consult the wiki pages and README.md in each OS folder for more informati
 Across the OIB, the following naming convention is used, seen below with some examples:
 | OS | | Identifier | | Category | | Device/User Assignment | | Sub-Category | | Version |
 |:---:|:-:|:---:|:-:|:---:|:-:|:---:|:-:|:---:|:-:|:---:|
-| Win | - | OIB | - | Device Security | - | D | - | Login and Lock Screen | - | v3.0 |
+| Win | - | OIB | - | Device Security | - | D | - | Login and Lock Screen | - | v3.2 |
 | Win365 | - | OIB | - | Device Security | - | D | - | Resource Redirection | - | v1.0 |
 | MacOS | - | OIB | - | Microsoft Edge | - | D | - | Security | - | v1.0 |
 
